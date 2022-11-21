@@ -1,1 +1,1 @@
-# study.github.io
+# StudyHub.github.io
